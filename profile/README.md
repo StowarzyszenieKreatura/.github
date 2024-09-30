@@ -1,5 +1,4 @@
-# Kreatura
-### Alternative House of Culture
+# **Kreatura** - Alternative House of Culture
 
 ---
 
